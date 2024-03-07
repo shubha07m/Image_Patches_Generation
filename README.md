@@ -2,7 +2,7 @@ In this example I have created a program which include the function inputs_to_da
 inputs_to_dataset produces image patches and corresponding mask patches to use as a dataset.
 
 Below an example to show how patches are generated from an image with 3 channels.
-![alt text](https://github.com/shubha07m/Image_Patches_Generation/blob/shubh/patches.png)
+![alt text](https://github.com/shubha07m/Image_Patches_Generation/blob/main/patches.png)
 
 I have implemented the inputs_to_dataset function in two different ways:
 
