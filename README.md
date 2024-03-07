@@ -1,4 +1,4 @@
-In this exercise I have created a program which include the function inputs_to_dataset. Given an image and label mask,
+In this example I have created a program which include the function inputs_to_dataset. Given an image and label mask,
 inputs_to_dataset produces image patches and corresponding mask patches to use as a dataset.
 
 Below an example to show how patches are generated from an image with 3 channels.
